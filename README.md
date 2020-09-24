@@ -1,5 +1,5 @@
 
-# Brz Admin
+# Brz Admin iview开发的企业管理前台代码
 
 [![](https://img.shields.io/github/release/iview/iview-admin.svg)](https://github.com/iview/iview-admin/releases)
 [![](https://img.shields.io/travis/iview/iview-admin.svg?style=flat-square)](https://travis-ci.org/iview/iview-admin)
